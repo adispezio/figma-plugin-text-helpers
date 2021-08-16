@@ -1,4 +1,6 @@
-# Figma Plugin: Text Utilities
+# Figma Plugin: Text Helpers
+
+🚧 This is a development sample for educational purposes and not production-ready code.
 
 ## Development guide
 
